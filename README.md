@@ -1,0 +1,1 @@
+# XRI_EasySettingsPanel
